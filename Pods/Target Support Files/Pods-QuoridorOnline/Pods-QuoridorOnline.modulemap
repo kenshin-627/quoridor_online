@@ -1,0 +1,6 @@
+module Pods_QuoridorOnline {
+  umbrella header "Pods-QuoridorOnline-umbrella.h"
+
+  export *
+  module * { export * }
+}

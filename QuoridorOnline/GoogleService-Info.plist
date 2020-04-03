@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>193944758168-3ka6inti5h1j8k82l78jm6tv7quo5tb7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.193944758168-3ka6inti5h1j8k82l78jm6tv7quo5tb7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8Ez4r7tcuqBUMQHqAGqMpvcW3nXlyOP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>193944758168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kenapps.QuoridorOnline</string>
+	<key>PROJECT_ID</key>
+	<string>quoridoronline</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quoridoronline.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:193944758168:ios:77e3120b057cf29b51aded</string>
+	<key>DATABASE_URL</key>
+	<string>https://quoridoronline.firebaseio.com</string>
+</dict>
+</plist>
